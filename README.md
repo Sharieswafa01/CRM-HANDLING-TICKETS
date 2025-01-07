@@ -4,27 +4,6 @@ Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.
 
 ---
 
-![Laravel Support Tickets 01](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.11.07-PM.png)
-
----
-
-![Laravel Support Tickets 02](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.11.34-PM.png)
-
----
-
-![Laravel Support Tickets 03](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.11.48-PM.png)
-
----
-
-![Laravel Support Tickets 04](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.12.10-PM.png)
-
----
-
-![Laravel Support Tickets 05](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.12.33-PM.png)
-
----
-
-![Laravel Support Tickets 06](https://laraveldaily.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-15-at-6.17.59-PM.png)
 
 ---
 
