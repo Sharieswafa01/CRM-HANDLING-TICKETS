@@ -3,11 +3,18 @@ Demo support ticketing project based on Laravel 8.
 Project is partly generated with [QuickAdminPanel](https://2019.quickadminpanel.com)
 
 ---
-![image](https://github.com/user-attachments/assets/88b79b4b-7730-4713-9932-c099bba2335b)
+![image](https://github.com/user-attachments/assets/134c1417-f30c-4d23-9195-0ffe61fe8dd1)
 
-![image](https://github.com/user-attachments/assets/41bfacf6-2300-41b2-bb4f-f8bf26e89a80)
+![image](https://github.com/user-attachments/assets/3a7327f0-8161-456f-9747-f513eb595109)
 
-![image](https://github.com/user-attachments/assets/effdadf8-fd27-4e56-93f3-94099d3f80ce)
+![image](https://github.com/user-attachments/assets/26a3c715-ed72-4ad0-a781-00b8e4456e88)
+
+![image](https://github.com/user-attachments/assets/b8f925d4-2710-46fd-8084-715560415e1c)
+
+![image](https://github.com/user-attachments/assets/1c572af9-ef8c-40fd-a817-530e7df106fa)
+
+
+
 
 
 
